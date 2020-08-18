@@ -16,3 +16,4 @@ D:\High Ambition\Collabera\Promotion_App\bin\Debug\nunit.framework.dll
 D:\High Ambition\Collabera\Promotion_App\bin\Debug\nunit.framework.pdb
 D:\High Ambition\Collabera\Promotion_App\bin\Debug\nunit.framework.xml
 D:\High Ambition\Collabera\Promotion_App\obj\Debug\Promotion_App.csproj.CopyComplete
+D:\High Ambition\Collabera\Promotion_App\obj\Debug\Promotion_App.csprojAssemblyReference.cache
